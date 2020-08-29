@@ -1,2 +1,2 @@
-# wordflashcard
-Learn many english words and their pronunciation in the windows notification.
+# word flash card
+Learn many English words and their pronunciation in the windows notification.
